@@ -1,0 +1,22 @@
+{
+  "name": "ow2-build-status",
+  "version": "0.0.1",
+  "description": "OW2 Status images",
+  "author": "Christophe Hamerling <chamerling@ow2.org>",
+  "homepage": "http://github.com/ow2/ow2-build-status",
+  "keywords": [
+    "bamboo", "status", "atlassian", "ow2"
+  ],
+  "licenses": [{
+    "type": "MIT",
+    "url": "http://mths.be/mit"
+  }],
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/ow2/ow2-build-status.git"
+  },
+  
+  "dependencies": {
+    "bamboo-status": "0.0.1"
+  }
+}
