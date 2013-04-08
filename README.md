@@ -14,11 +14,11 @@ The image status of the plan running at [http://bamboo.ow2.org/browse/PETALSESB-
 
     http://ow2bamboostatus.herokuapp.com/status/PETALSESB-PETALSESBCLTJMX
 
-[![Build Status](http://ow2bamboostatus.herokuapp.com/status/PETALSESB-PETALSESBCLTJMX)](http://bamboo.ow2.org/browse/PETALSESB-PETALSESBCLTJMX])
+[![Build Status](http://ow2bamboostatus.herokuapp.com/status/PETALSESB-PETALSESBCLTJMX)(http://bamboo.ow2.org/browse/PETALSESB-PETALSESBCLTJMX])
 
 
 ## Misc...
 
 Insert in your Github README.md file
 
-    [![Build Status](http://ow2bamboostatus.herokuapp.com/status/PETALSESB-PETALSESBCLTJMX)](http://bamboo.ow2.org/browse/PETALSESB-PETALSESBCLTJMX])
+    [![Build Status](http://ow2bamboostatus.herokuapp.com/status/PETALSESB-PETALSESBCLTJMX)(http://bamboo.ow2.org/browse/PETALSESB-PETALSESBCLTJMX])
